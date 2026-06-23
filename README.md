@@ -6,6 +6,7 @@ DSA Coded and Material
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HarshO4/DSA-/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/HarshO4/DSA-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ DSA Coded and Material
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HarshO4/DSA-/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/HarshO4/DSA-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
