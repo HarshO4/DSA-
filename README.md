@@ -6,6 +6,7 @@ DSA Coded and Material
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshO4/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshO4/DSA-/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/HarshO4/DSA-/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -20,4 +21,8 @@ DSA Coded and Material
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshO4/DSA-/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshO4/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
