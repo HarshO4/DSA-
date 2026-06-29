@@ -8,6 +8,7 @@ DSA Coded and Material
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshO4/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshO4/DSA-/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/HarshO4/DSA-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshO4/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/HarshO4/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarshO4/DSA-/tree/master/0283-move-zeroes) |
@@ -18,6 +19,7 @@ DSA Coded and Material
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshO4/DSA-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/HarshO4/DSA-/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -28,6 +30,7 @@ DSA Coded and Material
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshO4/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/HarshO4/DSA-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HarshO4/DSA-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshO4/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/HarshO4/DSA-/tree/master/0283-move-zeroes) |
